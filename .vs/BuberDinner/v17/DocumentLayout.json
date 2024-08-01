@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gab\\source\\repos\\BuberDinner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\errors\\buberdinnerproblemdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\errors\\buberdinnerproblemdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BuberDinner.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T14:02:45.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BuberDinner.Api",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\BuberDinner.Api.csproj",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
-              "RelativeToolTip": "BuberDinner.Api\\BuberDinner.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-30T14:02:38.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Program.cs",
               "RelativeDocumentMoniker": "BuberDinner.Api\\Program.cs",
               "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Program.cs",
               "RelativeToolTip": "BuberDinner.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T14:02:33.66Z",
+              "WhenOpened": "2024-08-01T14:46:00.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\appsettings.json",
-              "RelativeToolTip": "BuberDinner.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T14:02:22.509Z",
+              "DocumentIndex": 2,
+              "Title": "BuberDinnerProblemDetailsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Errors\\BuberDinnerProblemDetailsFactory.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\Errors\\BuberDinnerProblemDetailsFactory.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Errors\\BuberDinnerProblemDetailsFactory.cs",
+              "RelativeToolTip": "BuberDinner.Api\\Errors\\BuberDinnerProblemDetailsFactory.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:42:22.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\ErrorsController.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "BuberDinner.Api\\Controllers\\ErrorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T14:01:02.18Z",
+              "WhenOpened": "2024-08-01T14:32:16.544Z",
               "EditorCaption": ""
             }
           ]

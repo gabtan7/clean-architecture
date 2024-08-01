@@ -5,6 +5,7 @@ C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\Bub
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
