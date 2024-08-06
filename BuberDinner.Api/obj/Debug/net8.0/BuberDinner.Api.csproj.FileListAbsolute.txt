@@ -45,3 +45,9 @@ C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\refint\Bu
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.dll
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
