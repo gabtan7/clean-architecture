@@ -1,0 +1,6 @@
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gab\source\repos\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.sourcelink.json

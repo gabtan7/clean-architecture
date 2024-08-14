@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\gab\\source\\repos\\BuberDinner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\dinneraggregate\\valueobjects\\locationid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\dinneraggregate\\valueobjects\\locationid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\controllers\\dinnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\dinnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\dinneraggregate\\valueobjects\\dinnerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\dinneraggregate\\valueobjects\\dinnerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AED01CE-0877-46A0-BB6F-268136803564}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\buberdinner.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\buberdinner.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\common\\errors\\errors.user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\common\\errors\\errors.user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\menureviewaggregate\\menureview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\menureviewaggregate\\menureview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\common\\valueobjects\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\common\\valueobjects\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\common\\models\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\common\\models\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\common\\models\\aggregaterootid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\common\\models\\aggregaterootid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\common\\valueobjects\\averagerating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\common\\valueobjects\\averagerating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\dinneraggregate\\dinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\dinneraggregate\\dinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\menuaggregate\\valueobjects\\menuid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\menuaggregate\\valueobjects\\menuid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|c:\\users\\gab\\source\\repos\\buberdinner\\buberdinner.domain\\common\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA5E93D-077C-4B2C-8000-F46E746046F6}|BuberDinner.Domain\\BuberDinner.Domain.csproj|solutionrelative:buberdinner.domain\\common\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +63,156 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "LocationId.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\LocationId.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\LocationId.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\LocationId.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\LocationId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:05:06.397Z",
+              "WhenOpened": "2024-08-14T10:30:08.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\ApiController.cs",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\ApiController.cs",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\ApiController.cs",
-              "RelativeToolTip": "BuberDinner.Api\\Controllers\\ApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Title": "BuberDinner.Domain",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\BuberDinner.Domain.csproj",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+              "RelativeToolTip": "BuberDinner.Domain\\BuberDinner.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T10:28:31.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Errors.User.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Errors\\Errors.User.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\Common\\Errors\\Errors.User.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Errors\\Errors.User.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\Common\\Errors\\Errors.User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:04:28.79Z",
+              "WhenOpened": "2024-08-14T10:28:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuReview.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\MenuReviewAggregate\\MenuReview.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\MenuReviewAggregate\\MenuReview.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\MenuReviewAggregate\\MenuReview.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\MenuReviewAggregate\\MenuReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:27:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AverageRating.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\ValueObjects\\AverageRating.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\Common\\ValueObjects\\AverageRating.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\ValueObjects\\AverageRating.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\Common\\ValueObjects\\AverageRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:24:12.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\ValueObjects\\Rating.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\Common\\ValueObjects\\Rating.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\ValueObjects\\Rating.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\Common\\ValueObjects\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:23:48.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DinnersController.cs",
-              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\DinnersController.cs",
-              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\DinnersController.cs",
-              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Api\\Controllers\\DinnersController.cs",
-              "RelativeToolTip": "BuberDinner.Api\\Controllers\\DinnersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Title": "DinnerId.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\DinnerId.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\DinnerId.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\DinnerId.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\DinnerAggregate\\ValueObjects\\DinnerId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T02:53:23.248Z",
+              "WhenOpened": "2024-08-14T10:23:01.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dinner.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\DinnerAggregate\\Dinner.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\DinnerAggregate\\Dinner.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\DinnerAggregate\\Dinner.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\DinnerAggregate\\Dinner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:23:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuId.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\MenuAggregate\\ValueObjects\\MenuId.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\MenuAggregate\\ValueObjects\\MenuId.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\MenuAggregate\\ValueObjects\\MenuId.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\MenuAggregate\\ValueObjects\\MenuId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:44:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\Common\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Models\\Entity.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\Common\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:43:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AggregateRootId.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Models\\AggregateRootId.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\Common\\Models\\AggregateRootId.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Models\\AggregateRootId.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\Common\\Models\\AggregateRootId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:42:08.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Models\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Domain\\Common\\Models\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\Common\\Models\\AggregateRoot.cs",
+              "RelativeToolTip": "BuberDinner.Domain\\Common\\Models\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:41:33.636Z",
               "EditorCaption": ""
             }
           ]

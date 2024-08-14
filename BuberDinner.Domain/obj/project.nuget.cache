@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LnBRF6ca0vk=",
+  "dgSpecHash": "SXI0o/i4iBE=",
   "success": true,
   "projectFilePath": "C:\\Users\\gab\\source\\repos\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gab\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+    "C:\\Users\\gab\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
   ],
   "logs": []
 }

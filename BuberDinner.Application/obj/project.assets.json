@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "ErrorOr/2.0.1": {
+      "ErrorOr/1.2.1": {
         "type": "package",
         "compile": {
           "lib/net6.0/ErrorOr.dll": {
@@ -78,7 +78,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "ErrorOr": "2.0.1"
+          "ErrorOr": "1.2.1"
         },
         "compile": {
           "bin/placeholder/BuberDinner.Domain.dll": {}
@@ -90,15 +90,14 @@
     }
   },
   "libraries": {
-    "ErrorOr/2.0.1": {
-      "sha512": "aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+    "ErrorOr/1.2.1": {
+      "sha512": "5xcbQErEPQKq2z/sLwSaFPX3T2G7x4ISX0us0X7jSxXSQT/wlfOOhw4knPUN/GWOf2strhuzdvRA36JViwvu+A==",
       "type": "package",
-      "path": "erroror/2.0.1",
+      "path": "erroror/1.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "README.md",
-        "erroror.2.0.1.nupkg.sha512",
+        "erroror.1.2.1.nupkg.sha512",
         "erroror.nuspec",
         "icon-square.png",
         "lib/net6.0/ErrorOr.dll",
