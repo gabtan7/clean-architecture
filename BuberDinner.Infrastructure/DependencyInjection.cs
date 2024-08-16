@@ -5,11 +5,13 @@ using BuberDinner.Infrastructure.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using BuberDinner.Application.Common.Persistence;
-using BuberDinner.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.Extensions.Options;
+using BuberDinner.Infrastructure.Persistence.Repositories;
+using BuberDinner.Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace BuberDinner.Infrastructure
 {
@@ -19,7 +21,7 @@ namespace BuberDinner.Infrastructure
         {
             services.AddAuth(configuration);
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
-            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddPersistance(configuration);
             return services;
         }
 
@@ -44,6 +46,16 @@ namespace BuberDinner.Infrastructure
                     IssuerSigningKey = new SymmetricSecurityKey(
                         Encoding.UTF8.GetBytes(jwtSettings.Secret))
                 });
+
+            return services;
+        }
+
+        public static IServiceCollection AddPersistance(this IServiceCollection services,ConfigurationManager configuration)
+        {
+            services.AddDbContext<BuberDinnerDbContext>(options =>
+                options.UseSqlServer("Server=localhost;Database=BuberDinner;User Id=sa;Password=123;TrustServerCertificate=true"));
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IMenuRepository, MenuRepository>();
 
             return services;
         }
